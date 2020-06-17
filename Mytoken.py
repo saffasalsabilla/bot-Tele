@@ -1,0 +1,2 @@
+TOKEN = '1236665407:AAEyPPa_Q90phU92Fxjy5_dJYwoiGFt80JA'
+SAPA ="Hallo Gaiisss"
